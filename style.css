@@ -1,0 +1,150 @@
+/* ================================
+   GLOBAL RESET & THEME
+================================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #2563eb;
+  --background: #f4f6f8;
+  --text: #1f2937;
+  --card: #ffffff;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--background);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+/* ================================
+   LAYOUT
+================================ */
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+section {
+  margin: 50px 0;
+}
+
+/* ================================
+   HEADER & NAVIGATION
+================================ */
+header {
+  background-color: var(--primary);
+  color: white;
+  padding: 30px 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* ================================
+   PROFILE IMAGE
+================================ */
+.profile-img {
+  display: block;
+  margin: 25px auto;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
+}
+
+/* ================================
+   TYPOGRAPHY
+================================ */
+h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+/* ================================
+   BUTTONS (Reusable)
+================================ */
+.btn {
+  display: inline-block;
+  background-color: var(--primary);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #1e40af;
+}
+
+/* ================================
+   SKILLS & PROJECTS BOXES
+================================ */
+.card {
+  background-color: var(--card);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.skill {
+  background-color: #e0e7ff;
+  padding: 10px 15px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+/* ================================
+   FOOTER
+================================ */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
