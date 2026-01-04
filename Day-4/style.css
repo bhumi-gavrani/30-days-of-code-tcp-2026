@@ -5,11 +5,10 @@
     --primary: #4f46e5;
     --secondary: #1f2937;
     --background: #f9fafb;
-    --card-bg: #ffffff;
+    --card-bg: #ffffff;   /* Card background color */
     --text-dark: #111827;
     --text-light: #6b7280;
 }
-
 /* ==========================
    GLOBAL RESET
 ========================== */
