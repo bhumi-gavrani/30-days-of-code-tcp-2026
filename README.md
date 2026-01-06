@@ -26,3 +26,13 @@ Day-3
 
 Day-4
 <img width="1900" height="991" alt="Screenshot 2026-01-04 212759" src="https://github.com/user-attachments/assets/06751963-c22f-4c9c-9333-3cc07e439057" />
+
+Day-5
+
+
+
+https://github.com/user-attachments/assets/624e2d4e-0874-4d09-9628-6d06a7a549cd
+
+
+
+
