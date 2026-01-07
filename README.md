@@ -33,6 +33,19 @@ Day-5
 
 https://github.com/user-attachments/assets/624e2d4e-0874-4d09-9628-6d06a7a549cd
 
+## Day 6 – Time Complexity Analysis (MCQ)
+
+**Question:**  
+Find the worst-case time complexity of the given recursive function.
+
+**Correct Answer:**  
+`O(2^(R + C))`
+
+### Proof of Submission
+<img width="1919" height="987" alt="Day-6" src="https://github.com/user-attachments/assets/28bb4871-330b-4199-96f4-0f89b1a4b765" />
+
+
+
 
 
 
