@@ -54,4 +54,13 @@ Day-8
 Day-9
 <img width="1915" height="988" alt="Screenshot 2026-01-09 214910" src="https://github.com/user-attachments/assets/d9c0f1dd-959c-4b08-9cdf-684d68956049" />
 
+Day-10
+
+gfg problem : sort 0s, 1s and 2s 
+
+Solution 1
+<img width="1919" height="986" alt="Day10-type1" src="https://github.com/user-attachments/assets/6ff44f9e-9dbf-4be4-8d0c-cb360cec4ae1" />
+
+Solution 2
+<img width="1919" height="990" alt="Day10-type2" src="https://github.com/user-attachments/assets/ccc74896-6f8c-437b-89f9-b6cdbd204a5c" />
 
