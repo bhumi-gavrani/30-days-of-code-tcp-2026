@@ -64,3 +64,7 @@ Solution 1
 Solution 2
 <img width="1919" height="990" alt="Day10-type2" src="https://github.com/user-attachments/assets/ccc74896-6f8c-437b-89f9-b6cdbd204a5c" />
 
+Day-11
+#gfg problem: Merge Sort
+
+<img width="1919" height="988" alt="Day11" src="https://github.com/user-attachments/assets/858228cf-62b7-416b-acf0-4acd435c17db" />
