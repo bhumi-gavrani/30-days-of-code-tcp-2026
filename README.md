@@ -68,3 +68,7 @@ Day-11
 #gfg problem: Merge Sort
 
 <img width="1919" height="988" alt="Day11" src="https://github.com/user-attachments/assets/858228cf-62b7-416b-acf0-4acd435c17db" />
+
+Day-12
+#leetcode problem: Find first and last position of element
+<img width="1918" height="988" alt="Day12" src="https://github.com/user-attachments/assets/d95378ef-40cd-480c-a178-94e702408040" />
