@@ -72,3 +72,13 @@ Day-11
 Day-12
 #leetcode problem: Find first and last position of element
 <img width="1918" height="988" alt="Day12" src="https://github.com/user-attachments/assets/d95378ef-40cd-480c-a178-94e702408040" />
+
+Day-13
+#leetcode problem: koko loves banana
+<img width="1919" height="988" alt="Day13" src="https://github.com/user-attachments/assets/3ddf7d87-bb9c-4db5-bf23-d13edccf4b32" />
+
+Day-14
+#gfg problem: bit manipulation-set bits
+<img width="1919" height="993" alt="Day14" src="https://github.com/user-attachments/assets/85670b3b-9e94-457e-9e7a-b9c416b6c9d8" />
+
+
