@@ -81,4 +81,7 @@ Day-14
 #gfg problem: bit manipulation-set bits
 <img width="1919" height="993" alt="Day14" src="https://github.com/user-attachments/assets/85670b3b-9e94-457e-9e7a-b9c416b6c9d8" />
 
+Day-15
+#leetcode problem: ugly number III
+<img width="1917" height="989" alt="Day15" src="https://github.com/user-attachments/assets/8f6bd441-3cfc-4d70-9035-a86d5249cb55" />
 
