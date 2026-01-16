@@ -85,3 +85,6 @@ Day-15
 #leetcode problem: ugly number III
 <img width="1917" height="989" alt="Day15" src="https://github.com/user-attachments/assets/8f6bd441-3cfc-4d70-9035-a86d5249cb55" />
 
+Day-16
+#leetcode problem: Candy
+<img width="1919" height="985" alt="Day16" src="https://github.com/user-attachments/assets/beb13126-0666-40df-a3bd-86d43a64c280" />
