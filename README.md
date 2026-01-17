@@ -88,3 +88,7 @@ Day-15
 Day-16
 #leetcode problem: Candy
 <img width="1919" height="985" alt="Day16" src="https://github.com/user-attachments/assets/beb13126-0666-40df-a3bd-86d43a64c280" />
+
+Day-17
+#leetcode problem: Count good numbers
+<img width="1918" height="984" alt="Day17" src="https://github.com/user-attachments/assets/be10c7f1-b4ce-4b70-befe-d36a01403e75" />
