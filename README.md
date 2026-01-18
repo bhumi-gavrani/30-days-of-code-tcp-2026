@@ -92,3 +92,7 @@ Day-16
 Day-17
 #leetcode problem: Count good numbers
 <img width="1918" height="984" alt="Day17" src="https://github.com/user-attachments/assets/be10c7f1-b4ce-4b70-befe-d36a01403e75" />
+
+Day-18
+#leetcode problem: N Queens
+<img width="1919" height="991" alt="Day18" src="https://github.com/user-attachments/assets/927aeacf-04b6-480e-b9ed-978bd8f35a9d" />
