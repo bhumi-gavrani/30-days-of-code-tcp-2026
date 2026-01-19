@@ -96,3 +96,7 @@ Day-17
 Day-18
 #leetcode problem: N Queens
 <img width="1919" height="991" alt="Day18" src="https://github.com/user-attachments/assets/927aeacf-04b6-480e-b9ed-978bd8f35a9d" />
+
+Day-19
+#gfg problem: add 1 to linkedlist number
+<img width="1919" height="991" alt="Day19" src="https://github.com/user-attachments/assets/dd4b0e72-81be-41d0-9ff5-7a6d9706e498" />
