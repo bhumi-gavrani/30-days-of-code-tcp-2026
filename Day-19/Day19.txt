@@ -1,0 +1,52 @@
+/*
+class Node{
+    int data;
+    Node next;
+
+    Node(int x){
+        data = x;
+        next = null;
+    }
+}
+*/
+
+class Solution {
+    public Node addOne(Node head) {
+        // code here.
+        Node lastNotNine = null;
+        Node curr = head;
+
+        // Step 1: find the rightmost node which is not 9
+        while (curr != null) {
+            if (curr.data != 9) {
+                lastNotNine = curr;
+            }
+            curr = curr.next;
+        }
+
+        // Step 2: if all digits were 9
+        if (lastNotNine == null) {
+            Node newHead = new Node(1);
+            newHead.next = head;
+
+            curr = head;
+            while (curr != null) {
+                curr.data = 0;
+                curr = curr.next;
+            }
+            return newHead;
+        }
+
+        // Step 3: add 1 to last non-9 digit
+        lastNotNine.data++;
+
+        // Step 4: make all digits after it 0
+        curr = lastNotNine.next;
+        while (curr != null) {
+            curr.data = 0;
+            curr = curr.next;
+        }
+
+        return head;
+    }
+}
