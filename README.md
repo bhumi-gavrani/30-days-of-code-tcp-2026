@@ -100,3 +100,7 @@ Day-18
 Day-19
 #gfg problem: add 1 to linkedlist number
 <img width="1919" height="991" alt="Day19" src="https://github.com/user-attachments/assets/dd4b0e72-81be-41d0-9ff5-7a6d9706e498" />
+
+Day-20
+#leetcode problem: even odd linkedlist
+<img width="1919" height="987" alt="Day20" src="https://github.com/user-attachments/assets/d83136b5-408a-45c9-98c7-4eb9dd557a6e" />
