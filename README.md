@@ -104,3 +104,7 @@ Day-19
 Day-20
 #leetcode problem: even odd linkedlist
 <img width="1919" height="987" alt="Day20" src="https://github.com/user-attachments/assets/d83136b5-408a-45c9-98c7-4eb9dd557a6e" />
+
+Day-21
+#leetcode problem: Next Greatest Element I
+<img width="1919" height="999" alt="Day21" src="https://github.com/user-attachments/assets/17dac4e7-e6b4-4c77-b3c6-0b00b1bb82bd" />
