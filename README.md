@@ -107,4 +107,9 @@ Day-20
 
 Day-21
 #leetcode problem: Next Greatest Element I
+#bruteForceApproach
 <img width="1919" height="999" alt="Day21" src="https://github.com/user-attachments/assets/17dac4e7-e6b4-4c77-b3c6-0b00b1bb82bd" />
+
+#usingStack
+<img width="1919" height="994" alt="Day21-2" src="https://github.com/user-attachments/assets/47a12460-b065-403f-a7ed-69f5c7a19d83" />
+
