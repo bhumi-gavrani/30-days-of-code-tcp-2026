@@ -113,3 +113,6 @@ Day-21
 #usingStack
 <img width="1919" height="994" alt="Day21-2" src="https://github.com/user-attachments/assets/47a12460-b065-403f-a7ed-69f5c7a19d83" />
 
+Day-22
+#gfg problem: set5(queue)
+<img width="1919" height="988" alt="Day22" src="https://github.com/user-attachments/assets/1e43b983-9c5d-42db-9fff-051c6de88e8b" />
