@@ -116,3 +116,7 @@ Day-21
 Day-22
 #gfg problem: set5(queue)
 <img width="1919" height="988" alt="Day22" src="https://github.com/user-attachments/assets/1e43b983-9c5d-42db-9fff-051c6de88e8b" />
+
+Day-23
+#leetcode problem: Sort Characters By Frequency
+<img width="1919" height="986" alt="Day23" src="https://github.com/user-attachments/assets/dbb6a8c0-594d-469b-8fdb-1a0e1acf6ead" />
