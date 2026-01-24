@@ -120,3 +120,7 @@ Day-22
 Day-23
 #leetcode problem: Sort Characters By Frequency
 <img width="1919" height="986" alt="Day23" src="https://github.com/user-attachments/assets/dbb6a8c0-594d-469b-8fdb-1a0e1acf6ead" />
+
+Day-24
+#codeforces: Basketball Together
+<img width="1919" height="958" alt="Day24" src="https://github.com/user-attachments/assets/7a1c846e-5953-4b7f-910f-20d55f26f037" />
