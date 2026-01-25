@@ -124,3 +124,7 @@ Day-23
 Day-24
 #codeforces: Basketball Together
 <img width="1919" height="958" alt="Day24" src="https://github.com/user-attachments/assets/7a1c846e-5953-4b7f-910f-20d55f26f037" />
+
+Day-25
+#code360: Tree traversals
+<img width="1919" height="991" alt="Day25" src="https://github.com/user-attachments/assets/adc2d1d5-24cb-46cd-abb6-5587bcfcc04c" />
