@@ -132,3 +132,7 @@ Day-25
 Day-26
 #leetcode problem: Binary Tree Level Order Traversal
 <img width="1919" height="988" alt="Day26" src="https://github.com/user-attachments/assets/acce718d-67d8-4838-a33d-7b13501e31eb" />
+
+Day-27
+#codeforces: Average Sleep Time
+<img width="1919" height="990" alt="Day27" src="https://github.com/user-attachments/assets/f8f79759-af41-4b0a-933a-dee248bac05a" />
