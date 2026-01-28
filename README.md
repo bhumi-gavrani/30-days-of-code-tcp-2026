@@ -136,3 +136,7 @@ Day-26
 Day-27
 #codeforces: Average Sleep Time
 <img width="1919" height="990" alt="Day27" src="https://github.com/user-attachments/assets/f8f79759-af41-4b0a-933a-dee248bac05a" />
+
+Day-28
+#leetcode problem: Count Number of Nice Subarrays
+<img width="1919" height="981" alt="Day28" src="https://github.com/user-attachments/assets/3d9afa05-21c6-4b28-b3a2-d7b3f672e72c" />
