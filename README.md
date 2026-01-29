@@ -140,3 +140,8 @@ Day-27
 Day-28
 #leetcode problem: Count Number of Nice Subarrays
 <img width="1919" height="981" alt="Day28" src="https://github.com/user-attachments/assets/3d9afa05-21c6-4b28-b3a2-d7b3f672e72c" />
+
+Day-29
+#leetcode problem: Binary Tree Maximum Path Sum
+<img width="1919" height="980" alt="Day29" src="https://github.com/user-attachments/assets/12a8e8d1-cf1c-4a84-93be-c07b84b53acd" />
+
