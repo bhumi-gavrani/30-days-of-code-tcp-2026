@@ -145,3 +145,6 @@ Day-29
 #leetcode problem: Binary Tree Maximum Path Sum
 <img width="1919" height="980" alt="Day29" src="https://github.com/user-attachments/assets/12a8e8d1-cf1c-4a84-93be-c07b84b53acd" />
 
+Day-30
+#gfg problem: Intersection of two arrays
+<img width="1919" height="995" alt="Day30" src="https://github.com/user-attachments/assets/d2d53bac-361a-499c-bffc-433a9aa91198" />
